@@ -21,17 +21,5 @@ Bu projede aşağıdaki adımlar gerçekleştirilmiştir:
 - **XGBoost** - Makine öğrenmesi algoritması
 - **Matplotlib** - Verilerin görselleştirilmesi
 
-## Gereksinimler
 
-Bu projeyi çalıştırmak için aşağıdaki Python kütüphanelerine ihtiyacınız olacak:
 
-- pandas
-- numpy
-- scikit-learn
-- xgboost
-- matplotlib
-
-Gerekli kütüphaneleri yüklemek için şu komutu kullanabilirsiniz:
-
-```bash
-pip install -r requirements.txt
